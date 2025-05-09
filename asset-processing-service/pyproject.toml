@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "asset-processing-service"
 version = "0.1.0"
-description = "Simple hello world"
-authors = ["Your Name <your.email@example.com>"]
+description = ""
+authors = ["kanav9063 <kanav@ucsb.edu>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.11"
 
 [tool.poetry.scripts]
 asset-processing-service = "asset_processing_service.main:main"
