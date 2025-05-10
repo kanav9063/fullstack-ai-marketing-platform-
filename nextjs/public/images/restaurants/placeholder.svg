@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#FFF7ED"/>
+  <path d="M400 200C444.183 200 480 164.183 480 120C480 75.8172 444.183 40 400 40C355.817 40 320 75.8172 320 120C320 164.183 355.817 200 400 200Z" fill="#FDBA74"/>
+  <path d="M400 220C444.183 220 480 184.183 480 140C480 95.8172 444.183 60 400 60C355.817 60 320 95.8172 320 140C320 184.183 355.817 220 400 220Z" fill="#FB923C"/>
+  <text x="400" y="320" font-family="Arial" font-size="24" fill="#9A3412" text-anchor="middle">Restaurant Image</text>
+  <text x="400" y="350" font-family="Arial" font-size="16" fill="#9A3412" text-anchor="middle">Coming Soon</text>
+</svg> 
